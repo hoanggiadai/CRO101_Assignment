@@ -1,0 +1,305 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "admin",
+      "email": "admin123@gmail.com",
+      "userName": "admin",
+      "password": "admin",
+      "phone": "0123456789",
+      "address": "Nam Từ Niêm - Hà Nội"
+    },
+    {
+      "id": "2",
+      "fullName": "Hoàng Gia Đại",
+      "email": "daihg123@gmail.com",
+      "userName": "daihg1502",
+      "password": "123",
+      "phone": "0987654321",
+      "address": "Chương Mỹ - Hà Nội"
+    },
+    {
+      "id": "1f3b",
+      "fullName": "Nguyen Van A",
+      "email": "nva123@gmail.com",
+      "userName": "abc",
+      "password": "123456",
+      "phone": "0963258741",
+      "address": "Gdyhfdgvgj"
+    },
+    {
+      "id": "6b58",
+      "fullName": "Nguyen Van B",
+      "email": "nvb345@gmail.com",
+      "userName": "nvb123",
+      "password": "1234567",
+      "phone": "0123456789",
+      "address": "Ha Noi"
+    },
+    {
+      "id": "df5c",
+      "fullName": "Hoang Thi C",
+      "email": "chthi123@gmail.com",
+      "userName": "cht123",
+      "password": "1234567",
+      "phone": "0123456789",
+      "address": "Ha Noi"
+    },
+    {
+      "id": "ec0f",
+      "fullName": "Nguyen Van d",
+      "email": "adbcd@gmail.com",
+      "userName": "abcd",
+      "password": "1234567",
+      "phone": "1234567890",
+      "address": "jygjgfjygy"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Robusta Beans",
+      "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+      "price": 4.2,
+      "priceupdate": 4.2
+    },
+    {
+      "id": "2",
+      "name": "Arabica Beans",
+      "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+      "price": 4.2,
+      "priceupdate": 4.2
+    },
+    {
+      "id": "3",
+      "name": "Cappuccino",
+      "photo": "https://images.pexels.com/photos/8472177/pexels-photo-8472177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Typica and Bourbon. In Canephora, we drink the variety called Robusta. This is why the term Robusta is generally used for this entire variety of coffee. In effect, coffee beans have been divided into two main types – Arabica and Robusta.",
+      "price": 4.2,
+      "priceupdate": 4.2
+    },
+    {
+      "id": "4",
+      "name": "Robusta Beans",
+      "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+      "price": 4.2,
+      "priceupdate": 4.2
+    },
+    {
+      "id": "5",
+      "name": "Arabica Beans",
+      "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+      "price": 4.2,
+      "priceupdate": 4.2
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "photo": "https://images.pexels.com/photos/8472177/pexels-photo-8472177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Typica and Bourbon. In Canephora, we drink the variety called Robusta. This is why the term Robusta is generally used for this entire variety of coffee. In effect, coffee beans have been divided into two main types – Arabica and Robusta.",
+      "price": 4.2,
+      "priceupdate": 4.2
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "name": "Robusta Beans",
+      "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+      "price": 4.2,
+      "quantity": 3,
+      "priceupdate": "12.6"
+    },
+    {
+      "id": "2",
+      "name": "Arabica Beans",
+      "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+      "price": 4.2,
+      "quantity": 3,
+      "priceupdate": "12.6"
+    },
+    {
+      "id": "3",
+      "name": "Cappuccino",
+      "photo": "https://images.pexels.com/photos/8472177/pexels-photo-8472177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Typica and Bourbon. In Canephora, we drink the variety called Robusta. This is why the term Robusta is generally used for this entire variety of coffee. In effect, coffee beans have been divided into two main types – Arabica and Robusta.",
+      "price": 4.2,
+      "priceupdate": "8.4",
+      "quantity": 2
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "photo": "https://images.pexels.com/photos/8472177/pexels-photo-8472177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Typica and Bourbon. In Canephora, we drink the variety called Robusta. This is why the term Robusta is generally used for this entire variety of coffee. In effect, coffee beans have been divided into two main types – Arabica and Robusta.",
+      "price": 4.2,
+      "priceupdate": 4.2,
+      "quantity": 1
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "name": "Robusta Beans",
+      "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+      "price": 4.2
+    },
+    {
+      "id": "2",
+      "name": "Arabica Beans",
+      "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+      "price": 4.2
+    },
+    {
+      "id": "6",
+      "name": "Cappuccino",
+      "photo": "https://images.pexels.com/photos/8472177/pexels-photo-8472177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "descrip": "Typica and Bourbon. In Canephora, we drink the variety called Robusta. This is why the term Robusta is generally used for this entire variety of coffee. In effect, coffee beans have been divided into two main types – Arabica and Robusta.",
+      "price": 4.2
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "fullname": "admin",
+      "email": "admin123@gmail.com",
+      "phone": "0123456789",
+      "information": "Cafe Ngon !"
+    },
+    {
+      "id": "b9a9",
+      "fullName": "Hoang Gia Dai",
+      "email": "daihg1502@gmail.com",
+      "phone": "1234678905",
+      "userName": "daihg1502",
+      "information": "ca phe ngon thatkdfgj"
+    },
+    {
+      "id": "0bc1",
+      "fullName": "fgerger",
+      "email": "gethget",
+      "phone": "0123456789",
+      "userName": "sdfs",
+      "information": "sfgrergerg"
+    }
+  ],
+  "bill": [
+    {
+      "id": "6643",
+      "product": {
+        "id": "1",
+        "name": "Robusta Beans",
+        "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+        "price": 4.2,
+        "quantity": 3,
+        "priceupdate": "12.6"
+      },
+      "payment": "Credit Card"
+    },
+    {
+      "id": "68b2",
+      "product": {
+        "id": "1",
+        "name": "Robusta Beans",
+        "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": "Thanh Toán khi nhận hàng"
+    },
+    {
+      "id": "e984",
+      "product": {
+        "id": "1",
+        "name": "Robusta Beans",
+        "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": "FPoly Pay"
+    },
+    {
+      "id": "4dd7",
+      "product": {
+        "id": "2",
+        "name": "Arabica Beans",
+        "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": ""
+    },
+    {
+      "id": "b431",
+      "product": {
+        "id": "2",
+        "name": "Arabica Beans",
+        "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": ""
+    },
+    {
+      "id": "0b2e",
+      "product": {
+        "id": "2",
+        "name": "Arabica Beans",
+        "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": ""
+    },
+    {
+      "id": "7744",
+      "product": {
+        "id": "2",
+        "name": "Arabica Beans",
+        "photo": "https://images.pexels.com/photos/5214207/pexels-photo-5214207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": ""
+    },
+    {
+      "id": "cdcb",
+      "product": {
+        "id": "1",
+        "name": "Robusta Beans",
+        "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": ""
+    },
+    {
+      "id": "d421",
+      "product": {
+        "id": "1",
+        "name": "Robusta Beans",
+        "photo": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "descrip": "The most common varietal of Coffea Canephora is Robusta, Arabica’s street-smart younger brother. Despite its flavour being considered less refined, Robusta is widely used in espresso blends because it is known to produce a better crema (the creamy layer found on top of an espresso shot) than Arabica",
+        "price": 4.2,
+        "priceupdate": 4.2
+      },
+      "payment": "Credit Card"
+    }
+  ]
+}
